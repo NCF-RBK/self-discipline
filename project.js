@@ -12,7 +12,7 @@ var message = document.getElementById("message")
     for (var i = 0; i < users.length; i++) {
        if (users[i].username === username && users[i].password === password) {
     message.textContent = "Login successful!"
-    window.location.replace("project1.html")
+    window.location.replace("self-discipline.html")
     } else {
     message.textContent = "Incorrect username or password. Please try again."
         }
