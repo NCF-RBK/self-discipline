@@ -1,0 +1,56 @@
+
+body {
+    background-image: url("rbk-04.jpg");
+    font-family: sans-serif;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#firstPage {
+    position: relative;
+    margin: 40px auto;
+    margin-left: 400px;
+    padding: 50px 200px 50px;
+    width: 510px;
+    background: white;
+    border-radius: 50px;
+    -webkit-box-shadow: 0 0 200px rgba(255, 255, 255, 0.5), 0 1px 2px rgba(0, 0, 0, 0.3);
+    box-shadow: 0 0 200px rgba(255, 255, 255, 0.5), 0 1px 2px rgba(0, 0, 0, 0.3);
+  }
+#username{
+    width: 250px;
+    height: 30px;
+    border-width: thick
+}
+
+#password{
+    width: 250px;
+    height: 30px;
+    border-width: thick
+}
+
+Button {
+    background-color: #c7058d;
+    color: #fff;
+    padding: 10px;
+    width: 90px;
+    border: none;
+    cursor: pointer;
+    margin-left: 70px;
+}
+h1 {
+    font-family: 'Lato', sans-serif;
+    font-weight: 5000;
+    font-size: 50px;
+    color: #080701;
+    align-items: center;
+    margin-left: 600px;
+    font-family: Garamond, serif
+  }
+  p{
+    font-size:20px;
+    margin-left:-30px ;
+  }
+#achref{
+    padding-left: 90px;
+}
