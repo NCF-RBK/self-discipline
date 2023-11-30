@@ -17,13 +17,16 @@ body {
     -webkit-box-shadow: 0 0 200px rgba(255, 255, 255, 0.5), 0 1px 2px rgba(0, 0, 0, 0.3);
     box-shadow: 0 0 200px rgba(255, 255, 255, 0.5), 0 1px 2px rgba(0, 0, 0, 0.3);
   }
-#email{
+#username{
     width: 250px;
     height: 30px;
+    border-width: thick
 }
-#keyword{
+
+#password{
     width: 250px;
     height: 30px;
+    border-width: thick
 }
 
 Button {
@@ -40,8 +43,9 @@ h1 {
     font-weight: 5000;
     font-size: 50px;
     color: #080701;
-align-items: center;
-margin-left: 600px;
+    align-items: center;
+    margin-left: 600px;
+    font-family: Garamond, serif
   }
   p{
     font-size:20px;
