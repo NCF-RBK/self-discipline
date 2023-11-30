@@ -36,16 +36,17 @@ Button {
     width: 90px;
     border: none;
     cursor: pointer;
-    margin-left: 70px;
+    margin-left: 80px;
+    border-radius: 30px;
 }
 h1 {
     font-family: 'Lato', sans-serif;
     font-weight: 5000;
     font-size: 50px;
-    color: #080701;
-    align-items: center;
-    margin-left: 600px;
-    font-family: Garamond, serif
+    color: #b048a0;
+    text-align: center;
+    margin:auto;
+    font-family: fantasy;
   }
   p{
     font-size:20px;
